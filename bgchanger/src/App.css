@@ -1,0 +1,14 @@
+
+h1 {
+  background-color: #4a90f4;
+  text-align: center;
+}
+#main {
+  /* Regular CSS */
+  background-color: {color};
+  width: 100%;
+  height: 100vh; /* Assuming 'h-screen' refers to full viewport height */
+  transition-duration: 200ms; /* Assuming 'duration-200' refers to a transition duration of 200 milliseconds */
+}
+
+
